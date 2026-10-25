@@ -1,0 +1,361 @@
+entity,month,budget_line,amount
+PL01,2026-01,Revenue,1116.9
+PL01,2026-01,Materials & energy,380.0
+PL01,2026-01,External services,150.0
+PL01,2026-01,Personnel,420.0
+PL01,2026-01,Rent,60.0
+PL01,2026-01,Other opex,70.0
+PL01,2026-02,Revenue,1152.0
+PL01,2026-02,Materials & energy,380.0
+PL01,2026-02,External services,150.0
+PL01,2026-02,Personnel,420.0
+PL01,2026-02,Rent,60.0
+PL01,2026-02,Other opex,70.0
+PL01,2026-03,Revenue,1200.0
+PL01,2026-03,Materials & energy,380.0
+PL01,2026-03,External services,150.0
+PL01,2026-03,Personnel,420.0
+PL01,2026-03,Rent,60.0
+PL01,2026-03,Other opex,70.0
+PL01,2026-04,Revenue,1248.0
+PL01,2026-04,Materials & energy,380.0
+PL01,2026-04,External services,150.0
+PL01,2026-04,Personnel,420.0
+PL01,2026-04,Rent,60.0
+PL01,2026-04,Other opex,70.0
+PL01,2026-05,Revenue,1283.1
+PL01,2026-05,Materials & energy,380.0
+PL01,2026-05,External services,150.0
+PL01,2026-05,Personnel,420.0
+PL01,2026-05,Rent,60.0
+PL01,2026-05,Other opex,70.0
+PL01,2026-06,Revenue,1296.0
+PL01,2026-06,Materials & energy,380.0
+PL01,2026-06,External services,150.0
+PL01,2026-06,Personnel,420.0
+PL01,2026-06,Rent,60.0
+PL01,2026-06,Other opex,70.0
+PL01,2026-07,Revenue,1283.1
+PL01,2026-07,Materials & energy,380.0
+PL01,2026-07,External services,150.0
+PL01,2026-07,Personnel,420.0
+PL01,2026-07,Rent,60.0
+PL01,2026-07,Other opex,70.0
+PL01,2026-08,Revenue,1248.0
+PL01,2026-08,Materials & energy,380.0
+PL01,2026-08,External services,150.0
+PL01,2026-08,Personnel,420.0
+PL01,2026-08,Rent,60.0
+PL01,2026-08,Other opex,70.0
+PL01,2026-09,Revenue,1200.0
+PL01,2026-09,Materials & energy,380.0
+PL01,2026-09,External services,150.0
+PL01,2026-09,Personnel,420.0
+PL01,2026-09,Rent,60.0
+PL01,2026-09,Other opex,70.0
+PL01,2026-10,Revenue,1152.0
+PL01,2026-10,Materials & energy,380.0
+PL01,2026-10,External services,150.0
+PL01,2026-10,Personnel,420.0
+PL01,2026-10,Rent,60.0
+PL01,2026-10,Other opex,70.0
+PL01,2026-11,Revenue,1116.9
+PL01,2026-11,Materials & energy,380.0
+PL01,2026-11,External services,150.0
+PL01,2026-11,Personnel,420.0
+PL01,2026-11,Rent,60.0
+PL01,2026-11,Other opex,70.0
+PL01,2026-12,Revenue,1104.0
+PL01,2026-12,Materials & energy,380.0
+PL01,2026-12,External services,150.0
+PL01,2026-12,Personnel,420.0
+PL01,2026-12,Rent,60.0
+PL01,2026-12,Other opex,70.0
+PL02,2026-01,Revenue,670.1
+PL02,2026-01,Materials & energy,228.0
+PL02,2026-01,External services,90.0
+PL02,2026-01,Personnel,252.0
+PL02,2026-01,Rent,36.0
+PL02,2026-01,Other opex,42.0
+PL02,2026-02,Revenue,691.2
+PL02,2026-02,Materials & energy,228.0
+PL02,2026-02,External services,90.0
+PL02,2026-02,Personnel,252.0
+PL02,2026-02,Rent,36.0
+PL02,2026-02,Other opex,42.0
+PL02,2026-03,Revenue,720.0
+PL02,2026-03,Materials & energy,228.0
+PL02,2026-03,External services,90.0
+PL02,2026-03,Personnel,252.0
+PL02,2026-03,Rent,36.0
+PL02,2026-03,Other opex,42.0
+PL02,2026-04,Revenue,748.8
+PL02,2026-04,Materials & energy,228.0
+PL02,2026-04,External services,90.0
+PL02,2026-04,Personnel,252.0
+PL02,2026-04,Rent,36.0
+PL02,2026-04,Other opex,42.0
+PL02,2026-05,Revenue,769.9
+PL02,2026-05,Materials & energy,228.0
+PL02,2026-05,External services,90.0
+PL02,2026-05,Personnel,252.0
+PL02,2026-05,Rent,36.0
+PL02,2026-05,Other opex,42.0
+PL02,2026-06,Revenue,777.6
+PL02,2026-06,Materials & energy,228.0
+PL02,2026-06,External services,90.0
+PL02,2026-06,Personnel,252.0
+PL02,2026-06,Rent,36.0
+PL02,2026-06,Other opex,42.0
+PL02,2026-07,Revenue,769.9
+PL02,2026-07,Materials & energy,228.0
+PL02,2026-07,External services,90.0
+PL02,2026-07,Personnel,252.0
+PL02,2026-07,Rent,36.0
+PL02,2026-07,Other opex,42.0
+PL02,2026-08,Revenue,748.8
+PL02,2026-08,Materials & energy,228.0
+PL02,2026-08,External services,90.0
+PL02,2026-08,Personnel,252.0
+PL02,2026-08,Rent,36.0
+PL02,2026-08,Other opex,42.0
+PL02,2026-09,Revenue,720.0
+PL02,2026-09,Materials & energy,228.0
+PL02,2026-09,External services,90.0
+PL02,2026-09,Personnel,252.0
+PL02,2026-09,Rent,36.0
+PL02,2026-09,Other opex,42.0
+PL02,2026-10,Revenue,691.2
+PL02,2026-10,Materials & energy,228.0
+PL02,2026-10,External services,90.0
+PL02,2026-10,Personnel,252.0
+PL02,2026-10,Rent,36.0
+PL02,2026-10,Other opex,42.0
+PL02,2026-11,Revenue,670.1
+PL02,2026-11,Materials & energy,228.0
+PL02,2026-11,External services,90.0
+PL02,2026-11,Personnel,252.0
+PL02,2026-11,Rent,36.0
+PL02,2026-11,Other opex,42.0
+PL02,2026-12,Revenue,662.4
+PL02,2026-12,Materials & energy,228.0
+PL02,2026-12,External services,90.0
+PL02,2026-12,Personnel,252.0
+PL02,2026-12,Rent,36.0
+PL02,2026-12,Other opex,42.0
+PL03,2026-01,Revenue,893.5
+PL03,2026-01,Materials & energy,304.0
+PL03,2026-01,External services,120.0
+PL03,2026-01,Personnel,336.0
+PL03,2026-01,Rent,48.0
+PL03,2026-01,Other opex,56.0
+PL03,2026-02,Revenue,921.6
+PL03,2026-02,Materials & energy,304.0
+PL03,2026-02,External services,120.0
+PL03,2026-02,Personnel,336.0
+PL03,2026-02,Rent,48.0
+PL03,2026-02,Other opex,56.0
+PL03,2026-03,Revenue,960.0
+PL03,2026-03,Materials & energy,304.0
+PL03,2026-03,External services,120.0
+PL03,2026-03,Personnel,336.0
+PL03,2026-03,Rent,48.0
+PL03,2026-03,Other opex,56.0
+PL03,2026-04,Revenue,998.4
+PL03,2026-04,Materials & energy,304.0
+PL03,2026-04,External services,120.0
+PL03,2026-04,Personnel,336.0
+PL03,2026-04,Rent,48.0
+PL03,2026-04,Other opex,56.0
+PL03,2026-05,Revenue,1026.5
+PL03,2026-05,Materials & energy,304.0
+PL03,2026-05,External services,120.0
+PL03,2026-05,Personnel,336.0
+PL03,2026-05,Rent,48.0
+PL03,2026-05,Other opex,56.0
+PL03,2026-06,Revenue,1036.8
+PL03,2026-06,Materials & energy,304.0
+PL03,2026-06,External services,120.0
+PL03,2026-06,Personnel,336.0
+PL03,2026-06,Rent,48.0
+PL03,2026-06,Other opex,56.0
+PL03,2026-07,Revenue,1026.5
+PL03,2026-07,Materials & energy,304.0
+PL03,2026-07,External services,120.0
+PL03,2026-07,Personnel,336.0
+PL03,2026-07,Rent,48.0
+PL03,2026-07,Other opex,56.0
+PL03,2026-08,Revenue,998.4
+PL03,2026-08,Materials & energy,304.0
+PL03,2026-08,External services,120.0
+PL03,2026-08,Personnel,336.0
+PL03,2026-08,Rent,48.0
+PL03,2026-08,Other opex,56.0
+PL03,2026-09,Revenue,960.0
+PL03,2026-09,Materials & energy,304.0
+PL03,2026-09,External services,120.0
+PL03,2026-09,Personnel,336.0
+PL03,2026-09,Rent,48.0
+PL03,2026-09,Other opex,56.0
+PL03,2026-10,Revenue,921.6
+PL03,2026-10,Materials & energy,304.0
+PL03,2026-10,External services,120.0
+PL03,2026-10,Personnel,336.0
+PL03,2026-10,Rent,48.0
+PL03,2026-10,Other opex,56.0
+PL03,2026-11,Revenue,893.5
+PL03,2026-11,Materials & energy,304.0
+PL03,2026-11,External services,120.0
+PL03,2026-11,Personnel,336.0
+PL03,2026-11,Rent,48.0
+PL03,2026-11,Other opex,56.0
+PL03,2026-12,Revenue,883.2
+PL03,2026-12,Materials & energy,304.0
+PL03,2026-12,External services,120.0
+PL03,2026-12,Personnel,336.0
+PL03,2026-12,Rent,48.0
+PL03,2026-12,Other opex,56.0
+RO01,2026-01,Revenue,558.4
+RO01,2026-01,Materials & energy,190.0
+RO01,2026-01,External services,75.0
+RO01,2026-01,Personnel,210.0
+RO01,2026-01,Rent,30.0
+RO01,2026-01,Other opex,35.0
+RO01,2026-02,Revenue,576.0
+RO01,2026-02,Materials & energy,190.0
+RO01,2026-02,External services,75.0
+RO01,2026-02,Personnel,210.0
+RO01,2026-02,Rent,30.0
+RO01,2026-02,Other opex,35.0
+RO01,2026-03,Revenue,600.0
+RO01,2026-03,Materials & energy,190.0
+RO01,2026-03,External services,75.0
+RO01,2026-03,Personnel,210.0
+RO01,2026-03,Rent,30.0
+RO01,2026-03,Other opex,35.0
+RO01,2026-04,Revenue,624.0
+RO01,2026-04,Materials & energy,190.0
+RO01,2026-04,External services,75.0
+RO01,2026-04,Personnel,210.0
+RO01,2026-04,Rent,30.0
+RO01,2026-04,Other opex,35.0
+RO01,2026-05,Revenue,641.6
+RO01,2026-05,Materials & energy,190.0
+RO01,2026-05,External services,75.0
+RO01,2026-05,Personnel,210.0
+RO01,2026-05,Rent,30.0
+RO01,2026-05,Other opex,35.0
+RO01,2026-06,Revenue,648.0
+RO01,2026-06,Materials & energy,190.0
+RO01,2026-06,External services,75.0
+RO01,2026-06,Personnel,210.0
+RO01,2026-06,Rent,30.0
+RO01,2026-06,Other opex,35.0
+RO01,2026-07,Revenue,641.6
+RO01,2026-07,Materials & energy,190.0
+RO01,2026-07,External services,75.0
+RO01,2026-07,Personnel,210.0
+RO01,2026-07,Rent,30.0
+RO01,2026-07,Other opex,35.0
+RO01,2026-08,Revenue,624.0
+RO01,2026-08,Materials & energy,190.0
+RO01,2026-08,External services,75.0
+RO01,2026-08,Personnel,210.0
+RO01,2026-08,Rent,30.0
+RO01,2026-08,Other opex,35.0
+RO01,2026-09,Revenue,600.0
+RO01,2026-09,Materials & energy,190.0
+RO01,2026-09,External services,75.0
+RO01,2026-09,Personnel,210.0
+RO01,2026-09,Rent,30.0
+RO01,2026-09,Other opex,35.0
+RO01,2026-10,Revenue,576.0
+RO01,2026-10,Materials & energy,190.0
+RO01,2026-10,External services,75.0
+RO01,2026-10,Personnel,210.0
+RO01,2026-10,Rent,30.0
+RO01,2026-10,Other opex,35.0
+RO01,2026-11,Revenue,558.4
+RO01,2026-11,Materials & energy,190.0
+RO01,2026-11,External services,75.0
+RO01,2026-11,Personnel,210.0
+RO01,2026-11,Rent,30.0
+RO01,2026-11,Other opex,35.0
+RO01,2026-12,Revenue,552.0
+RO01,2026-12,Materials & energy,190.0
+RO01,2026-12,External services,75.0
+RO01,2026-12,Personnel,210.0
+RO01,2026-12,Rent,30.0
+RO01,2026-12,Other opex,35.0
+RO02,2026-01,Revenue,446.7
+RO02,2026-01,Materials & energy,152.0
+RO02,2026-01,External services,60.0
+RO02,2026-01,Personnel,168.0
+RO02,2026-01,Rent,24.0
+RO02,2026-01,Other opex,28.0
+RO02,2026-02,Revenue,460.8
+RO02,2026-02,Materials & energy,152.0
+RO02,2026-02,External services,60.0
+RO02,2026-02,Personnel,168.0
+RO02,2026-02,Rent,24.0
+RO02,2026-02,Other opex,28.0
+RO02,2026-03,Revenue,480.0
+RO02,2026-03,Materials & energy,152.0
+RO02,2026-03,External services,60.0
+RO02,2026-03,Personnel,168.0
+RO02,2026-03,Rent,24.0
+RO02,2026-03,Other opex,28.0
+RO02,2026-04,Revenue,499.2
+RO02,2026-04,Materials & energy,152.0
+RO02,2026-04,External services,60.0
+RO02,2026-04,Personnel,168.0
+RO02,2026-04,Rent,24.0
+RO02,2026-04,Other opex,28.0
+RO02,2026-05,Revenue,513.3
+RO02,2026-05,Materials & energy,152.0
+RO02,2026-05,External services,60.0
+RO02,2026-05,Personnel,168.0
+RO02,2026-05,Rent,24.0
+RO02,2026-05,Other opex,28.0
+RO02,2026-06,Revenue,518.4
+RO02,2026-06,Materials & energy,152.0
+RO02,2026-06,External services,60.0
+RO02,2026-06,Personnel,168.0
+RO02,2026-06,Rent,24.0
+RO02,2026-06,Other opex,28.0
+RO02,2026-07,Revenue,513.3
+RO02,2026-07,Materials & energy,152.0
+RO02,2026-07,External services,60.0
+RO02,2026-07,Personnel,168.0
+RO02,2026-07,Rent,24.0
+RO02,2026-07,Other opex,28.0
+RO02,2026-08,Revenue,499.2
+RO02,2026-08,Materials & energy,152.0
+RO02,2026-08,External services,60.0
+RO02,2026-08,Personnel,168.0
+RO02,2026-08,Rent,24.0
+RO02,2026-08,Other opex,28.0
+RO02,2026-09,Revenue,480.0
+RO02,2026-09,Materials & energy,152.0
+RO02,2026-09,External services,60.0
+RO02,2026-09,Personnel,168.0
+RO02,2026-09,Rent,24.0
+RO02,2026-09,Other opex,28.0
+RO02,2026-10,Revenue,460.8
+RO02,2026-10,Materials & energy,152.0
+RO02,2026-10,External services,60.0
+RO02,2026-10,Personnel,168.0
+RO02,2026-10,Rent,24.0
+RO02,2026-10,Other opex,28.0
+RO02,2026-11,Revenue,446.7
+RO02,2026-11,Materials & energy,152.0
+RO02,2026-11,External services,60.0
+RO02,2026-11,Personnel,168.0
+RO02,2026-11,Rent,24.0
+RO02,2026-11,Other opex,28.0
+RO02,2026-12,Revenue,441.6
+RO02,2026-12,Materials & energy,152.0
+RO02,2026-12,External services,60.0
+RO02,2026-12,Personnel,168.0
+RO02,2026-12,Rent,24.0
+RO02,2026-12,Other opex,28.0

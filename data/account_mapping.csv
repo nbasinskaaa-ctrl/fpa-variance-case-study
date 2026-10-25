@@ -1,0 +1,12 @@
+account,account_name,budget_line
+700100,Sales - products,Revenue
+700200,Sales - services,Revenue
+401100,Materials,Materials & energy
+401200,Energy,Materials & energy
+402100,IT services,External services
+402200,Consulting,External services
+404100,Salaries,Personnel
+405100,Social security,Personnel
+403100,Office rent,Rent
+409100,Travel,Other opex
+409200,Marketing,Other opex
